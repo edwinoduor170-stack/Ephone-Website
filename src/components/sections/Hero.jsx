@@ -12,7 +12,7 @@ function Hero() {
         }}>
             <div className="container mx-auto flex-col text-center">
                 <h1 className="text-white text-5xl font-bold mb-5">Power in Your Hands</h1>
-                <p className="text-white text-3xl b-7 mx-auto w-150">Get the best smartphones with advanced features, sleek designs and unbeatable performance.</p>
+                <p className="text-white text-3xl b-7 mx-auto md:w-150">Get the best smartphones with advanced features, sleek designs and unbeatable performance.</p>
                 <div className="flex justify-center">
 
 
