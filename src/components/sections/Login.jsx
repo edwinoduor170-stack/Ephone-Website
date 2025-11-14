@@ -31,7 +31,7 @@ function Login() {
 
 
     return (
-        <section className=" px-50 bg-gray-100 min-h-screen flex items-center justify-center w-full ">
+        <section className=" mx-auto bg-gray-100 min-h-screen flex items-center justify-center w-full ">
             <div className=" w-[450px] mx-auto mt-20 p-6 bg-violet-700  rounded-lg shadow-md ">
                 <form onSubmit={handleLogin}>
                     <h1 className="text-white font-bold text-center text-2xl">Log In</h1> <br />

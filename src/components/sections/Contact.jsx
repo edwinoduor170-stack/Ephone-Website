@@ -12,7 +12,7 @@ function Contact() {
                     <h2 className="text-3xl font-bold mb-9 text-white">Put power in your hands<br /> ePhon Empowering Your Hands</h2>
                     <p className="text-lg text-gray-100 mb-12">Simply enjoy quality life by getting in touch with us.</p>
 
-                    <div className="flex ">
+                    <div className="flex space-y-5">
                         <form action="#">
                             <input
                                 type="email"
