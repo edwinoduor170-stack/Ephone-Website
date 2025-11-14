@@ -29,7 +29,7 @@ function App() {
           <Header />
           <Hero />
 
-        <Wrapper className="absolute top-100 left-0 right-0 mx-auto w-11/12 md:w-3/4 md:absolute md:top-145 md:left-0 md:right-0 md:mx-auto">
+        <Wrapper className="absolute top-100 left-0 right-0 mx-auto w-11/12 md:w-3/4 md:absolute md:top-100 md:left-0 md:right-0 md:mx-auto">
           <Stats />
         </Wrapper>
 
