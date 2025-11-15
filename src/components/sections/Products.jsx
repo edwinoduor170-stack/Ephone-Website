@@ -128,7 +128,7 @@ const Products = () => {
     return (
         <section className="py-10 px-4 text-center">
             <h2 className="text-5xl text-violet-700  font-bold mb-2 md:text-4xl">ePhon Duka</h2>
-            <p className="text-gray-500 mb-8">
+            <p className="text-violet-700 mb-8">
                 Get the best smartphones with advanced features, sleek designs and unbeatable performance.
             </p>
 

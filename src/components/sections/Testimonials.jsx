@@ -73,7 +73,7 @@ const Testimonials = () => {
         <section className="max-w-7xl mx-auto px-6 py-5 grid grid-cols-1 md:grid-cols-2 items-center gap-10">
 
             <div >
-                <h2 className="text-4xl font-bold text-blue-950 mb-10">
+                <h2 className="text-4xl font-bold text-violet-700 mb-10">
                     What People Are Saying About Us
                 </h2>
 
@@ -84,25 +84,25 @@ const Testimonials = () => {
                         className="w-16 h-16 rounded-full object-cover shadow-md"
                     />
                     <div>
-                        <h3 className="text-lg font-semibold text-gray-900">{name}</h3>
+                        <h3 className="text-lg font-semibold text-violet-700">{name}</h3>
                         <p className="text-sm text-gray-500">{role}</p>
                     </div>
                 </div>
 
-                <p className="text-gray-700  text-xl italic mb-15 leading-relaxed transition-all duration-500">
+                <p className="text-violet-700  text-xl italic mb-15 leading-relaxed transition-all duration-500">
                     "{text}"
                 </p>
 
                 <div className="flex items-center gap-4 mt-8">
                     <button
                         onClick={prevSlide}
-                        className="p-3 bg-gray-500 text-white hover:bg-orange-700 rounded-full transition"
+                        className="p-3 bg-violet-700 text-white hover:bg-orange-700 rounded-full transition"
                     >
                         <FaChevronLeft className="cursor-pointer" />
                     </button>
                     <button
                         onClick={nextSlide}
-                        className="p-3 bg-gray-500 text-white hover:bg-orange-700 rounded-full transition"
+                        className="p-3 bg-violet-700 text-white hover:bg-orange-700 rounded-full transition"
                     >
                         <FaChevronRight className="cursor-pointer" />
                     </button>

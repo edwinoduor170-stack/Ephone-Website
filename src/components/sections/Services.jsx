@@ -41,10 +41,10 @@ function NewMerchandise() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-center">
         {/* LEFT SIDE: Section title & description */}
         <div>
-          <h3 className="text-3xl font-bold text-blue-950 md:text-4xl mb-10">
+          <h3 className="text-3xl font-bold text-violet-700 md:text-4xl mb-10">
           Our Services
           </h3>
-          <p className="text-lg mb-8 md:text-xl text-gray-700">
+          <p className="text-lg mb-8 md:text-xl text-violet-700">
             We provide fast, reliable, and affordable phone repair solutions — 
             from screen fixes to diagnostics — all done with expert care.
           </p>
@@ -73,7 +73,7 @@ function NewMerchandise() {
                     alt={item.title}
                     className="w-full h-70 rounded-2xl border border-gray-300 shadow-md object-contain bg-white"
                   />
-                  <h3 className="text-xl mt-3 font-bold text-gray-900 text-center">
+                  <h3 className="text-xl mt-3 font-bold text-violet-700 text-center">
                     {item.title}
                   </h3>
                 </div>

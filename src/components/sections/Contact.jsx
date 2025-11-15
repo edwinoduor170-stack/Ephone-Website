@@ -19,6 +19,7 @@ function Contact() {
                                 placeholder="Enter your email"
                                 className="p-3 bg-white rounded-md w-64 mr-6 focus:outline-none  "
                             />
+                            <br /><br />
                             <button
                                 type="submit"
                                 className="bg-gray-500 text-white p-3 rounded-md cursor-pointer hover:bg-gray-700 transition-colors"

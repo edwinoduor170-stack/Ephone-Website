@@ -30,6 +30,7 @@ function Footer() {
 
                     <div>
                         <h2 className="text-lg font-semibold">Our Services</h2>
+                        <hr />
                         <ul>
                             <li className="my-2 cursor-pointer">Phone Sales</li>
                             <li className="my-2 cursor-pointer">Phone Repair</li>
@@ -41,6 +42,8 @@ function Footer() {
 
                     <div>
                         <h2 className="text-lg font-semibold">Company</h2>
+                        <hr />
+                        <hr />
                         <ul>
                             <li className="my-2 cursor-pointer">About Us</li>
                             <li className="my-2 cursor-pointer">Careers</li>
@@ -51,6 +54,7 @@ function Footer() {
 
                     <div>
                         <h2 className="text-lg font-semibold">Contact Us</h2>
+                        <hr />
                         <ul>
                             <li className="my-2 cursor-pointer">Email</li>
                             <li className="my-2 cursor-pointer">Phone</li>
@@ -60,6 +64,7 @@ function Footer() {
 
                     <div>
                         <h2 className="text-lg font-semibold">Quick Links</h2>
+                        <hr />
                         <ul>
                             <li className="my-2 cursor-pointer">Terms of Service</li>
                             <li className="my-2 cursor-pointer">Help Center</li>
